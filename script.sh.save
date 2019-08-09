@@ -1,0 +1,3 @@
+funct
+if [ -d hola/ ]
+	then

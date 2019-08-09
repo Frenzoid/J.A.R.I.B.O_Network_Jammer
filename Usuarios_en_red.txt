@@ -1,0 +1,8 @@
+MAC Address: E0:41:36:2C:DB:08 (MitraStar Technology)
+MAC Address: 8C:A9:82:75:EC:62 (Intel Corporate)
+MAC Address: 08:00:27:FD:7E:07 (Oracle VirtualBox virtual NIC)
+MAC Address: 1C:7B:21:94:82:ED (Sony Mobile Communications AB)
+MAC Address: 9C:5C:8E:BE:94:7F (Asustek Computer)
+MAC Address: 00:0C:E7:A0:7F:77 (MediaTek)
+MAC Address: 78:B5:D2:00:77:F1 (Ever Treasure Industrial Limited)
+MAC Address: EC:89:F5:3B:12:B3 (Lenovo Mobile Communication Technology)
