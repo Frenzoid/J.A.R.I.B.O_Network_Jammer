@@ -1,4 +1,4 @@
-#Jaribo Project
+# Jaribo Project
 
 ![alt text](https://github.com/Frenzoid/jariboproject/blob/master/gitassets/3.jpg)
 ![alt text](https://github.com/Frenzoid/jariboproject/blob/master/gitassets/2.jpg)
