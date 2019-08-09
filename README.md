@@ -9,4 +9,4 @@ The project was to make (using the arp-sk library for arp  manipulations) a netw
 The logic is simplistic, we would either target a specific device or the whole network, and using arp, the program poisons the router's arp table.
 
 This project is out of support, and its here just as a relic of old times.
-(Also, all the interfaces are in english)
+(Also, all the interfaces are in Spanish)
