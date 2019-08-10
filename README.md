@@ -10,3 +10,11 @@ The logic is simplistic, we would either target a specific device or the whole n
 
 This project is out of support, and its here just as a relic of old times.
 (Also, all the interfaces are in Spanish)
+
+## How to use
+
+- Install the arp-sk package on your sytem.
+- Run jaribo.0.25T.sh `bash jaribo.0.25T.sh`, since that one is the latest stable version of the project.
+- Enter your router's ip address and network mask separeted by the bar `/` character. Example: `192.168.0.1/24`, 192.168.0.1 is the router address, and 24 is the network mask.
+- Select your interface, usually it will be `eth0`.
+- Use the program as you wish.
