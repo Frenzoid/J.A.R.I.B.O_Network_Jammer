@@ -18,3 +18,7 @@ This project is out of support, and its here just as a relic of old times.
 - Enter your router's ip address and network mask separeted by the bar `/` character. Example: `192.168.0.1/24`, 192.168.0.1 is the router address, and 24 is the network mask.
 - Select your interface, usually it will be `eth0`.
 - Use the program as you wish.
+
+
+Here is a video example of its working.
+https://www.youtube.com/watch?v=eMeJfMv4zSw
