@@ -2,7 +2,7 @@
 
 ![Jaribo title](https://github.com/Frenzoid/jariboproject/blob/master/gitassets/3.jpg)
 ![Jaribo menu](https://github.com/Frenzoid/jariboproject/blob/master/gitassets/2.jpg)
-![Jaribo menu](https://github.com/Frenzoid/jariboproject/blob/master/gitassets/2ENG.jpg)
+![Jaribo menu](https://github.com/Frenzoid/jariboproject/blob/master/gitassets/2ENG.png)
 
 
 The jaribo project was a 2015 - 2017 project that me and some friends made using what we barely knew of bash. 
