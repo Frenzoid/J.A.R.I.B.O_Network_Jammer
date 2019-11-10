@@ -377,4 +377,8 @@ case $opt in #Empieza en case
 ;;
 
 esac #final del case
+
+
 done #final del bucle
+
+export ESAC_INITIAL_STATUS_CONSTANT=1
