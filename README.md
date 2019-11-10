@@ -14,9 +14,9 @@ This project is out of support, and its here just as a relic of old times.
 
 ## How to use
 
-- Install the [arp-sk](http://sid.rstack.org/arp-sk/) package on your sytem (you'll need libnet v1.1 or higher), or download it and "makefile it" from [here](http://brajddos.blogspot.com/2011/09/installing-arp-sk.html).
+- Install the [arp-sk](http://sid.rstack.org/arp-sk/) package on your sistem (you'll need libnet v1.1 or higher), or download it and "makefile it" from [here](http://brajddos.blogspot.com/2011/09/installing-arp-sk.html).
 - Run jaribo.0.25T.sh `bash jaribo.0.25T.sh`, since that one is the latest stable version of the project.
-- Enter your router's ip address and network mask separeted by the bar `/` character. Example: `192.168.0.1/24`, 192.168.0.1 is the router address, and 24 is the network mask.
+- Enter your router's ip address and network mask separeted by the bar `/` character. Example: `192.168.0.1/24`, 192.168.0.1 is the router address, and 24 is the network mask, when asked for data.
 - Select your interface, usually it will be `eth0`.
 - Use the program as you wish.
 
