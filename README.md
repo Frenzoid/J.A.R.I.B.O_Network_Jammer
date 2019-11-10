@@ -1,10 +1,11 @@
 # Jaribo Project
 
-![alt text](https://github.com/Frenzoid/jariboproject/blob/master/gitassets/3.jpg)
-![alt text](https://github.com/Frenzoid/jariboproject/blob/master/gitassets/2.jpg)
+![Jaribo title](https://github.com/Frenzoid/jariboproject/blob/master/gitassets/3.jpg)
+![Jaribo menu](https://github.com/Frenzoid/jariboproject/blob/master/gitassets/2.jpg)
 
 The jaribo project was a 2015 - 2017 project that me and some friends made using what we barely knew of bash. 
-The project was to make (using the [arp-sk](https://manned.org/arp-sk/99e329e1) package for arp packages manipulation) a network jammer [Doing ARP spoofing](https://en.wikipedia.org/wiki/ARP_spoofing).
+The project was to make (using the [arp-sk](https://manned.org/arp-sk/99e329e1) package for arp packages manipulation) a network jammer [doing ARP spoofing](https://en.wikipedia.org/wiki/ARP_spoofing).
+![arp spoofing](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ARP_Spoofing.svg/1280px-ARP_Spoofing.svg.png)
 
 The logic is simplistic, we would either target a specific device or the whole network, and using the arp, the program poisons the router's arp table.
 
