@@ -24,6 +24,3 @@ This project is out of support, and its here just as a relic of old times.
 
 (This project depends on [net tools](https://packages.debian.org/stretch/net-tools)).
 
-
-Here is a video example of its working.
-https://www.youtube.com/watch?v=eMeJfMv4zSw
